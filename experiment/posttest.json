@@ -5,12 +5,12 @@
         "question": "What is the case for Grashofian linkage",
         "answers": {
           "a": " I+s<p+q ",
-          "b": "I+s<p+q",
+          "b": "I+s>p+q",
           "c": "I+s<=p+q",
           "d": "None of the above"
           
         },
-        "correctAnswer": "b",
+        "correctAnswer": "a",
         "difficulty": "beginner"
       }]
 }
