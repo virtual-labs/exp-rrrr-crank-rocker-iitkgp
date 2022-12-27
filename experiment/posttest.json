@@ -2,15 +2,15 @@
     "version": 2.0,
     "questions": [
       {
-        "question": "What is the case for  Grashofian linkage",
+        "question": "What is the case for non Grashofian double rocker",
         "answers": {
-          "a": " I+s<<p+q ",
+          "a": " I+s<p+q ",
           "b": "I+s>p+q",
           "c": "I+s<=p+q",
           "d": "None of the above"
           
         },
-        "correctAnswer": "a",
+        "correctAnswer": "b",
         "difficulty": "beginner"
       }]
 }
